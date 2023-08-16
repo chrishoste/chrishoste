@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center">
+  <img src="https://github.com/chrishoste/chrishoste/assets/22995847/36c33eb5-48c8-4b4d-99b9-b85c610d9f85" />
+</p>
+
 <!--
 **chrishoste/chrishoste** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
